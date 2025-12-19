@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm 吟处雪轻遮 (XueQingZhe)
 
-<!--
-**XueQingZhe/XueQingZhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Technical Artist | Shader Developer
 
-Here are some ideas to get you started:
+专注于实时渲染技术
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+**Engines**: Unity (URP) · Unreal Engine  
+**Languages**: HLSL · Blueprint  
+**Focus**: Character Rendering · Toon Shading · PBR  
+**Tools**: Blender · Substance Painter · RenderDoc 
+
+### 📫 Contact
+
+- 🌐 Website: [xueqingzhe.github.io](https://xueqingzhe.github.io)
+- 📧 Email: 1215422936@qq.com
